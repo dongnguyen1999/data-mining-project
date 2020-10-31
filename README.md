@@ -9,3 +9,6 @@
 - Xử lý dữ liệu đợt 2 >6000 hình ảnh (done)
 - Gom cụm (done)
 - Gán nhãn cho dữ liệu (done)
+- Xử lý dữ liệu đợt 3 >8000 hình ảnh
+- Gom cụm
+- Gán nhãn cho dữ liệu

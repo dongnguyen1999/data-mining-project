@@ -13,4 +13,4 @@
 **Tuần 9:**
 - Xử lý dữ liệu đợt 3 8664 hình ảnh:
   1. Gom cụm: VGG16 + KMean :heavy_check_mark:
-  2. Gán nhãn cho dữ liệu
+  2. Gán nhãn cho dữ liệu :heavy_check_mark:
